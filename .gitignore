@@ -1,0 +1,4 @@
+*.out
+
+testdata/*
+!testdata/.gitkeep
